@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DAPA Actividad 4</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DAPA Actividad 4</string>
+    <string name="nav_header_subtitle">Listas de Personajes</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_finn">Finn</string>
+    <string name="menu_chow">Chowder</string>
+    <string name="menu_flap">Flapjack</string>
+
+    <string name="desc_finn">Finn Mertens(also known as Finn the Human) is the main protagonist in Adventure Time. He was voiced by Jeremy Shada in most appearances. Prior to the start of Adventure Time, Finn was adopted as an infant by two anthropomorphic dogs named Joshua and Margaret, who found him in the woods. His best friend and adoptive brother Jake the Dog (John DiMaggio) accompany him on many of his adventures in Ooo, the fictional world that the series is set in. The mystery surrounding Finn\'s origins and whether he is the last human left in Ooo is a major part of the character\'s narrative arc. Later in the series, it is revealed that there are other humans still living in Ooo and that Finn\'s parents Martin Mertens and Minerva Campbell came from a community of survivors living on a chain of islands.</string>
+    <string name="desc_chow">Chowder is the main protagonist of the series of the same name. He is an apprentice under the learning of Mung Daal.Chowder is a cat-bear-rabbit like Panini, but he has a feline appearance in contrast to Panini\'s lagomorphic appearance. Chowder has violet fur, a small pink nose, a striped racoon-like tail and short bear-like or Netherland dwarf rabbit ears that are usually covered by his purple beanie.He generally wears a purple hat with two points and a purple long sleeve shirt with fuchsia/magenta trim that covers his legs. He also wears purple shoes and rarely wears pants. He has a prominent fang on his upper jaw that can be seen even when his mouth is closed. Due to his appetite, he\'s quite heavy and doesn\'t do well with sports or physical activity in general.</string>
+    <string name="desc_flap">Flapjack is the main protagonist of the animated series, The Marvelous Misadventures of Flapjack. He is a young boy from Stormalong Harbor who dreams of becoming a great adventurer. He hopes that with the help of his best friend, Captain K\'nuckles, his dream will come true, all the while being oblivious to K\'nuckles\' incompetence.  </string>
+</resources>
